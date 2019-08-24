@@ -1,0 +1,2 @@
+# bigdatastudio
+inicio del curso
